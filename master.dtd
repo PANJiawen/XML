@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+
+<!ENTITY % tabs "table | tr | th | td">
+<!ENTITY % content "p | a | b | i" >
+<!ENTITY % lists "ul | li | ol | dl | dt | dd" >
+<!ENTITY % mise_en_forme  "%content; | %tabs; | %lists;" >
+
+<!ELEMENT p ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT b ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT i ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT a ( #PCDATA | %mise_en_forme;  )* >
+<!ATTLIST a
+  href CDATA #IMPLIED >
+<!ELEMENT ul ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT li ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT ol ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT dl ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT dt ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT dd ( #PCDATA | %mise_en_forme;  )* >
+
+<!ELEMENT table ( #PCDATA | tr| %content; )* >
+<!ELEMENT tr ( #PCDATA | th| td| %content; )* >
+<!ELEMENT th ( #PCDATA | %mise_en_forme;  )* >
+<!ELEMENT td ( #PCDATA | %mise_en_forme;  )* >
+
+<!ELEMENT master	(intervenant+, unite+, parcours+)>
+<!ELEMENT intervenant	(nom, adresse, site, telephone, etablissement)>
+<!ELEMENT unite		(nom, ref-intervenant*, nombreCredits, resume?, plan?, lieu?)>
+<!ELEMENT parcours	(nom, ref-responsable?, description?, branche+)>
+<!ELEMENT branche	(nom, ref-responsable+, description+, debouche+, lieu+, semestre*, competences*, connaissances*, politique-stages*, ens-delocalise*, aspects-recherche*, modalites-pedago*, condition-adm*, poursuite-etud*)>
+<!ELEMENT semestre	(bloc+)>
+<!ELEMENT bloc		(ref-unite+)>
+
+<!ELEMENT nom			(#PCDATA)>
+<!ELEMENT ref-intervenant	(#PCDATA)>
+<!ELEMENT nombreCredits		(#PCDATA)>
+<!ELEMENT resume	(#PCDATA | %mise_en_forme;)*>
+<!ELEMENT plan			(#PCDATA)>
+<!ELEMENT lieu			(#PCDATA)>
+
+<!ELEMENT adresse		(#PCDATA)>
+<!ELEMENT site			(#PCDATA)>
+<!ELEMENT telephone		(#PCDATA)>
+<!ELEMENT etablissement		(#PCDATA)>
+
+<!ELEMENT ref-responsable	(#PCDATA)>
+<!ELEMENT description		(#PCDATA)>
+<!ELEMENT debouche		(#PCDATA)>
+
+<!ELEMENT ref-unite		(#PCDATA)>
+<!ELEMENT obligatoire		(#PCDATA)>
+<!ELEMENT option		(#PCDATA)>
+
+<!ELEMENT competences		(#PCDATA)>
+<!ELEMENT connaissances		(#PCDATA)>
+<!ELEMENT politique-stages	(#PCDATA)>
+<!ELEMENT ens-delocalise	(#PCDATA)>
+<!ELEMENT aspects-recherche	(#PCDATA)>
+<!ELEMENT modalites-pedago	(#PCDATA)>
+<!ELEMENT condition-adm		(#PCDATA | %mise_en_forme;)*>
+<!ELEMENT poursuite-etud	(#PCDATA)>
+
+<!ATTLIST intervenant id ID #IMPLIED>
+<!ATTLIST unite id ID #IMPLIED>
+<!ATTLIST ref-intervenant ref IDREF #REQUIRED>
+<!ATTLIST ref-responsable ref IDREF #REQUIRED>
+<!ATTLIST ref-unite ref IDREF #REQUIRED>
+<!ATTLIST semestre numero CDATA #REQUIRED>
+<!ATTLIST bloc role (obligatoire|option|bonus) #IMPLIED>
+<!ATTLIST branche finalite (professionnelle|recherche) #IMPLIED>

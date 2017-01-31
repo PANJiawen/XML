@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<!DOCTYPE master SYSTEM "master.dtd">
+<master>
+   <intervenant id="morin">
+      <nom>Remi MORIN</nom>
+      <adresse>remi.morin@univ-amu.fr</adresse>
+      <site>www.remi.morin.perso.luminy.univ-amu.fr/</site>
+      <telephone>0491829394</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="massat">
+      <nom>Jean-Luc Massat</nom>
+      <adresse>jean-luc.massat@univ-amu.fr</adresse>
+      <site>www.jean-luc.massat.perso.luminy.univ-amu.fr/</site>
+      <telephone></telephone>
+      <etablissement></etablissement>
+   </intervenant>
+   <intervenant id="reynier">
+      <nom>Pierre-Alain REYNIER</nom>
+      <adresse>reynier@univ-amu.fr</adresse>
+      <site>www.reynier.perso.luminy.univ-amu.fr/</site>
+      <telephone>0491829313</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseillex</etablissement>
+   </intervenant>
+   <intervenant id="agopian">
+      <nom>Roland AGOPIAN</nom>
+      <adresse>roland.agopian@univ-amu.fr</adresse>
+      <site>www.agopian.perso.luminy.univ-amu.fr</site>
+      <telephone>0413551364</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="artieres">
+      <nom>Thierry ARTIÈRES</nom>
+      <adresse>thierry.artieres@lif.univ-mrs.fr</adresse>
+      <site>www.artheries.perso.luminy.univ-amu.fr</site>
+      <telephone></telephone>
+      <etablissement>École Centrale Marseille</etablissement>
+   </intervenant>
+   <intervenant id="bechet">
+      <nom>Frederic BECHET</nom>
+      <adresse>frederic.bechet@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829559</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="bertolissi">
+      <nom>Clara BERTOLISSI</nom>
+      <adresse>clara.bertolissi@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829527</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="boucelma">
+      <nom>Omar BOUCELMA</nom>
+      <adresse>omar.boucelma@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491056053</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="broche">
+      <nom>Martine BROCHE</nom>
+      <adresse>martine.broche@univ-amu.fr</adresse>
+      <site></site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="creignou">
+      <nom>Nadia CREIGNOU</nom>
+      <adresse>nadia.creignou@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829480</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="demongodin">
+      <nom>Isabelle DEMONGODIN</nom>
+      <adresse>isabel.demongodin@univ-amu.fr</adresse>
+      <site>http://www.lsis.org/isabel_demongodin</site>
+      <telephone>0491056077</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="estellon">
+      <nom>Bertrand ESTELLON</nom>
+      <adresse>bertrand.estellon@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829492</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="favre">
+      <nom>Benoit FAVRE</nom>
+      <adresse>benoit.favre@univ-amu.fr</adresse>
+      <site></site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="godard">
+      <nom>Emmanuel GODARD</nom>
+      <adresse>emmanuel.godard@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~emmanuel.godard/</site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="habet">
+      <nom>Djamal HABET</nom>
+      <adresse>djamal.habet@univ-amu.fr</adresse>
+      <site>http://www.lsis.org/habetd/</site>
+      <telephone>0491288321</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="jamet">
+      <nom>Line JAMET</nom>
+      <adresse>line.jakubiec@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~line.jakubiec/</site>
+      <telephone>0491829311</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="labourel">
+      <nom>Arnaud LABOUREL</nom>
+      <adresse>arnaud.labourel@univ-amu.fr</adresse>
+      <site>pageperso.lif.univ-mrs.fr/~arnaud.labourel/</site>
+      <telephone>0491829195</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="lai">
+      <nom>Claude LAI</nom>
+      <adresse>claude.lai@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829316</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="lugiez">
+      <nom>Denis LUGIEZ</nom>
+      <adresse>denis.lugiez@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~denis.lugiez/</site>
+      <telephone>0413551333</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="michel">
+      <nom>Stephane MICHEL</nom>
+      <adresse></adresse>
+      <site></site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="novelli">
+      <nom>Noel NOVELLI</nom>
+      <adresse>noel.novelli@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~noel.novelli/</site>
+      <telephone>0491829370</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="olive">
+      <nom>Frederic OLIVE</nom>
+      <adresse>frederic.olive@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~frederic.olive/</site>
+      <telephone>0491829000</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="olivetti">
+      <nom>Nicola OLIVETTI</nom>
+      <adresse>nicola.olivetti@univ-amu.fr</adresse>
+      <site>http://www.lsis.org/olivetti/</site>
+      <telephone>0486091046</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="chabarot">
+      <nom>Lydie RENE CHABAROT</nom>
+      <adresse>lydie.rene@univ-amu.fr</adresse>
+      <site></site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="risch">
+      <nom>Sylvie RISCH</nom>
+      <adresse>sylvie.risch@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829316</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="sabatier">
+      <nom>Claude SABATIER</nom>
+      <adresse>claude.sabatier@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829481</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="sellami">
+      <nom>Sana SELLAMI</nom>
+      <adresse>sana.sellami@univ-amu.fr</adresse>
+      <site>http://www.lsis.org/sellamis/</site>
+      <telephone>0491056057</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="vaxes">
+      <nom>Yann VAXES</nom>
+      <adresse>yann.vaxes@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~yann.vaxes/</site>
+      <telephone>0491829196</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+  <intervenant id="santocanale">
+      <nom>Luigi Santocanale</nom>
+      <adresse>luigi.santocanale@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~luigi.santocanale/</site>
+      <telephone>0491829275 </telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="arrighi">
+      <nom>Pablo Arrighi</nom>
+      <adresse>pablo.arrighi@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~pablo.arrighi//</site>
+      <telephone>0486090450</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="niebert">
+      <nom>Peter Niebert</nom>
+      <adresse>peter.niebert@univ-amu.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~peter.niebert/</site>
+      <telephone>0486090493</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="jegou">
+      <nom>Philippe JEGOU</nom>
+      <adresse>philippe.jegou@univ-amu.fr</adresse>
+      <site>http://www.lsis.org/philippe_jegou</site>
+      <telephone>0491288937</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="kadri">
+      <nom>Hachem Kadri</nom>
+      <adresse>hachem.kadri@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~hachem.kadri/</site>
+      <telephone>0413551322</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="couetoux">
+      <nom>Basile Couetoux</nom>
+      <adresse>basile.couetoux@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~basile.couetoux/</site>
+      <telephone>0491829296</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="naves">
+      <nom>Guyslain Naves</nom>
+      <adresse>guyslain.naves@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~guyslain.naves/</site>
+      <telephone>0486090492</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="facchini">
+      <nom>Stefano Facchini</nom>
+      <adresse>stefano.facchini@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~stefano.facchini/</site>
+      <telephone>0491829358</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="perrot">
+      <nom>Kévin Perrot</nom>
+      <adresse>kevin.perrot@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~kevin.perrot/</site>
+      <telephone>0486090497</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="naudin">
+      <nom>Antoine Naudin</nom>
+      <adresse>antoine.naudin@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~antoine.naudin/</site>
+      <telephone>0491829070</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="contensin">
+      <nom>Magali Contensin</nom>
+      <adresse>magali.contensin@univ-amu.fr</adresse>
+      <site>https://www.cmi.univ-mrs.fr/~contensi/cv.html/</site>
+      <telephone>0491269308</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="stefanini">
+      <nom>Marie-Hélène Stefanini</nom>
+      <adresse>marie-helene.stefanini@lif.univ-mrs.fr</adresse>
+      <site>http://www.lif.univ-mrs.fr/annuaire/personne/1155935</site>
+      <telephone>0486090680</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="chepoi">
+      <nom>Victor Chepoi</nom>
+      <adresse>victor.chepoi@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~victor.chepoi/</site>
+      <telephone>0486090459</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="das">
+      <nom>Shantanu Das</nom>
+      <adresse>shantanu.das@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~shantanu.das/</site>
+      <telephone>0486090463</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="tichit">
+      <nom>Laurent Tichit</nom>
+      <adresse>laurent.tichit@univ-amu.fr</adresse>
+      <site>http://iml.univ-mrs.fr/~tichit/</site>
+      <telephone>0491269582</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="dal-molin">
+      <nom>Alain Dal Molin</nom>
+      <adresse>alain.dal-molin@univ-amu.fr</adresse>
+      <site></site>
+      <telephone>0491829229</telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+   <intervenant id="dimolfetta">
+      <nom>Giuseppe Di Molfetta</nom>
+      <adresse>giuseppe.dimolfetta@lif.univ-mrs.fr</adresse>
+      <site>http://pageperso.lif.univ-mrs.fr/~giuseppe.dimolfetta/</site>
+      <telephone></telephone>
+      <etablissement>UFR Sciences, Université d'Aix-Marseille</etablissement>
+   </intervenant>
+
+   <unite id="ENSINAU1">
+      <nom>Génie Logiciel</nom>
+      <ref-intervenant ref="arrighi" />
+      <ref-intervenant ref="facchini" />
+      <nombreCredits>6</nombreCredits>
+      <resume>
+        <p>
+          Processus logiciel
+          Gestion de projet
+          Spécification et conception (artefact : notation UML)
+          Design patterns
+        </p>
+      </resume>
+   </unite>
+   <unite id="ENSINAU2">
+      <nom>Complexité</nom>
+      <ref-intervenant ref="creignou" />
+      <ref-intervenant ref="olive" />
+      <ref-intervenant ref="perrot" />
+      <ref-intervenant ref="dimolfetta" />
+      <nombreCredits>6</nombreCredits>
+      <resume>
+          Rappels sur les notions d'analyse de la complexité des algorithmes et des problèmes.
+          Notion de problèmes (décision, recherche, dénombrement, énumération, optimisation). Bornes inférieures de complexité.
+          Classes P et NP. Problèmes NP-complets.
+          Méthodes de résolution des problèmes NP-Complets.
+      </resume>
+   </unite>
+   <unite id="ENSINAU3">
+      <nom>Réseaux</nom>
+      <ref-intervenant ref="godard" />
+      <ref-intervenant ref="naudin" />
+      <ref-intervenant ref="tichit" />
+      <nombreCredits>6</nombreCredits>
+      <resume>
+          <p>
+          Architecture en couches, standard OSI
+          Couche physique
+          Couche liaison de Données
+          Réseau IP
+          Algorithmes de routage, routage IP
+          Protocole TCP/IP
+          Couche Application : HTTP, SMTP, FTP, ...
+          Bases des protocoles cryptographiques (terminologie, architecture à clef publique).
+          Introduction à la Sécurité des réseaux.
+          </p>
+      </resume>
+   </unite>
+   <unite id="ENSINAU12">
+      <nom>BDR : approfondissement</nom>
+      <ref-intervenant ref="novelli" />
+      <ref-intervenant ref="sabatier" />
+      <nombreCredits>3</nombreCredits>
+   </unite>
+   <unite id="ENSINAU4">
+      <nom>Programmation fonctionnelle</nom>
+      <ref-intervenant ref="santocanale" />
+      <ref-intervenant ref="naves" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+	<p>
+          1- Introduction à la programmation fonctionnelle, sur l'exemple du langage OCaml
+             Expressions, évaluation, types de base. Polymorphisme, ordre supérieur.
+             Fonctions récursives, filtrage. Les diverses stratégies d'évaluation, application à la programmation d'un opérateur de point fixe.
+          2- Les types
+             Sommes, types récursifs, polymorphes. Arbres. Filtrage.
+          3- Sémantique opérationnelle
+             Liaisons, environnements, clôtures. Évaluation des fonctions récursives .
+          4- Aspects impératifs
+             Exceptions, entrées-sorties, séquencement, fichiers, références, tableaux, enregistrements.
+          5- Implantation du filtrage en OCaml
+             Termes formels, substitutions, filtrage.
+	</p>
+      </resume>
+   </unite>
+   <unite id="ENSINAU6">
+      <nom>Programmation logique</nom>
+      <ref-intervenant ref="stefanini" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          Introduction. Forme générale des règles. Effacement, unification, backtracking. Contrôle de l'exécution.
+          Listes, arbres et n-uplets. Liste représentée par différence de listes. Ajout en tête et en queue, concaténation.
+          Analyseurs syntaxiques. Construction d'un arbre syntaxique. Liste des feuilles d'un arbre. Freeze et analyse par feuille.
+          Règles prédéfinies.
+      </resume>
+   </unite>
+   <unite id="ENSINAU7">
+      <nom>Outils de l'Internet</nom>
+      <ref-intervenant ref="contensin" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          Présentation d'Internet.
+          Les langages et les normes sur Internet.
+          Les protocoles : HTTP, SMTP, IMAP, POP3
+          Les applications web.
+          Sécurité.
+          Les nouvelles et futures technologies.
+      </resume>
+   </unite>
+   <unite id="ENSINAU8">
+      <nom>Système embarqué</nom>
+      <ref-intervenant ref="niebert" />
+      <nombreCredits>3</nombreCredits>
+   </unite>
+   <unite id="ENSINAU9">
+      <nom>Fondamentaux pour l'ingénierie des langues</nom>
+      <ref-intervenant ref="bechet" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          Rappel de théorie des langages
+          Algorithmes d'analyse syntaxique pour grammaires ambiguës
+          Transducteurs finis et leur application en TAL
+      </resume>
+   </unite>
+   <unite id="ENSINAU10">
+      <nom>Modèles à évènements discrets</nom>
+      <ref-intervenant ref="reynier" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          Posséder les notions de base en modélisation et analyse de systèmes dynamiques à événements discrets et particulièrement appréhender le formalisme réseau de Pétri. Étudier la conception et la spécification des systèmes réactifs à travers l'analyse du modèle à évènements discret (concurrence, parallélisme, synchronisation).
+      </resume>
+   </unite>
+   <unite id="ENSINAU13">
+      <nom>Pratique de la cryptographie</nom>
+      <ref-intervenant ref="morin" />
+      <nombreCredits>3</nombreCredits>
+   </unite>
+   <unite id="ENSINBU1">
+      <nom>Anglais</nom>
+      <ref-intervenant ref="dal-molin" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          Un enseignement destiné à confirmer l'utilisation de l'anglais dans le contexte de l'informatique ainsi que dans la pratique professionnelle.
+      </resume>
+   </unite>
+   <unite id="ENSINBU2">
+      <nom>Communication</nom>
+      <ref-intervenant ref="chabarot" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+        chapitre 1  : Théories de la communication :
+          1.1 La théorie mathématique de l’information (Shannon, Weaver), la cybernétique (Wiener)
+          1.2 La théorie de Palo Alto ( Bateson, Watzlawick) et la théorie de la communication par les processus (Mucchielli)
+        chapitre 2 : Rôle de l’interculturalité dans le travail en équipe :
+          2.1 L’enquête interculturelle de Hofstede pour IBM
+          2.2 La gestuelle et le paralangage et la proxémie dans le monde (Hall)
+        chapitre 3 : Notions de management et de travail collaboratif
+          3.1 Le travail collaboratif vs le travail coopératif
+          3.2 La notion de groupes
+          3.3 Les compétences managériales
+      </resume>
+   </unite>
+   <unite id="ENSINBU4">
+      <nom>XML</nom>
+      <ref-intervenant ref="massat" />
+      <ref-intervenant ref="reynier" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+          XML, DTD, XSD
+          XPath, XSLT, XQuery
+      </resume>
+   </unite>
+   <unite id="ENSINBU5">
+      <nom>Algorithmique et recherche opérationnelle</nom>
+      <ref-intervenant ref="chepoi" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+    Programmation linéaire.
+    Notions et algorithmes de flots.
+    Applications (couplage, affectation, transport, ...)
+    Programmation dynamique (sac à dos, ordonnancement, ...)
+    Algorithmes à performance garantie
+      </resume>
+   </unite>
+   <unite id="ENSINBU15">
+      <nom>Programmation parallèle</nom>
+      <ref-intervenant ref="morin" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+	<p>
+    Depuis la généralisation des architectures multi-coeurs, la programmation parallèle est devenue incontournable pour développer des applications exploitant pleinement les capacités de traitement offertes par les ordinateurs actuels. Elle est aussi un moyen de simplifier la structure du logiciel en l'organisant sous la forme de tâches distinctes qui interagissent entre elles afin de répondre aux requêtes de l'utilisateur (ou de l'environnement).
+Cette UE présente aux étudiants du M1 les principales difficultés de la programmation multi-thread et les techniques classiques permettant de développer un code correct et performant. Tout d'abord, les instructions de base liées à la classe Thread en Java sont introduites avec les concepts sous-jacents de verrou et de variable de condition. L'effet de ces instructions sur l'état d'un thread est illustré sur des exemples simples s'appuyant sur des diagrammes de séquence. Les notions d'indépendance et d'atomicité permettent ensuite de spécifier précisément les problèmes classiques de synchronisation en séparant le besoin d'exclusion mutuelle des contraintes d'attente particulières. L'approche recommandée pour débuter est celle de la conception et de la programmation de moniteurs (à la Hoare), étudiée sur plusieurs exemples classiques.
+Les outils dédiés à la programmation parallèle en Java sont également présentés en cours et exploités en Travaux Pratiques: locks divers, pools de threads, collections synchronisées ou concurrentes, objets atomiques, etc. Les difficultés propres à la programmation sans verrou sont illustrées par la construction de structures de données simples et de verrous performants.
+Enfin, un aperçu du modèle mémoire Java permet d'initier les étudiants à la notion de programme «bien synchronisé» et aux risques d'exécutions inconsistantes séquentiellement du fait des optimisations de codes réalisées lors de la compilation ou de l'exécution.
+	</p>
+      </resume>
+   </unite>
+   <unite id="ENSINBU6">
+      <nom>Projet</nom>
+      <ref-intervenant ref="jegou" />
+      <nombreCredits>6</nombreCredits>
+      <resume>
+	<p>
+       Le but du projet est de mettre en oeuvre, de l'analyse à la programmation, les notions présentées en cours. C'est l'occasion, pour les étudiants, d'utiliser sur un cas pratique, les éléments exposées dans les UE. Travail effectué sous la direction pédagogique d'un enseignant, et donnant lieu à la rédaction d'un mémoire et d'une soutenance orale.
+	</p>
+      </resume>
+   </unite>
+   <unite id="ENSINBU7">
+      <nom>Stage de deux mois</nom>
+      <ref-intervenant ref="jegou" />
+      <nombreCredits>6</nombreCredits>
+      <resume>
+     Les stages sont optionnels en première année (2 mois). Ils se déroulent en entreprise ou dans un laboratoire suivant la spécialité. La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. La fin du stage donne lieu à une soutenance et à la rédaction d'un mémoire.
+      </resume>
+   </unite>
+   <unite id="ENSINBU8">
+      <nom>Sémantique</nom>
+      <ref-intervenant ref="naves" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+        1-Le lambda-calcul simplement typé
+Syntaxe, typage, beta et eta-conversions, équations. Modèles : interprétation des jugements de typage.
+2-Extension à PCF. La règle \mu.
+3-Points fixes dans les ordres partiels complets.
+Le théorème de Tarski.
+4-Sémantique par point fixe de PCF.
+5-Cours de clôture : survol des différentes approches sémantiques.
+Sémantiques opérationnelles : par transitions, naturelles, machine abstraite de Landin.
+Sémantique dénotationnelles : cas fonctionnel(cf.chapitre 4) et cas d'un petit langage impératif.
+      </resume>
+   </unite>
+   <unite id="ENSINBU9">
+      <nom>Algorithmique distribuée</nom>
+      <ref-intervenant ref="das" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+        Un système distribué est un ensemble d’entités autonomes de calcul (ordinateurs, PDA, processeurs, processus, processus léger, ...) interconnectées et qui peuvent communiquer entre eux. Ce cours est une introduction aux méthodes pour la conception d'algorithmes dans de tels systèmes. Il donne une présentation des différents types de systèmes distribués et des différents problèmes que l'on doit résoudre. Les problèmes abordés sont : l'élection, le consensus, la diffusion, l'exploration, la réplication, l'exploration et le rendez-vous avec des agent mobiles.
+      </resume>
+   </unite>
+   <unite id="ENSINBU10">
+      <nom>Intégration des systèmes d'information</nom>
+      <ref-intervenant ref="boucelma" />
+      <nombreCredits>3</nombreCredits>
+      <resume>        
+    Problématique d'intégration des SI
+    Architectures et patrons d'intégration
+    Systèmes d'Information d'entreprises
+    Systèmes d'Information sur Internet        
+      </resume>
+   </unite>
+   <unite id="ENSINBU11">
+      <nom>Initiation à la fouille de données et à l'optimisation des SGBD</nom>
+      <ref-intervenant ref="novelli" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+        Actuellement, de plus en plus de données sont conservées sans être réellement exploitées. Elles représentent pourtant une source importante d’information. La fouille de données peut-être définie comme le processus permettant d’extraire de l’information non triviale et non préalablement connue à partir des données. Dans cet enseignement, nous nous focaliserons sur l’extraction de corrélations entre les données (règle d’association, Dépendances Fonctionnelles...) et nous verrons des techniques de mesure de la qualité des données (détection et correction d’erreur).
+Par ailleurs, nous passerons du côté obscur des SGBD en mettant évidence le lien existant entre les performances d'un SGBD et les choix d'implémentation des différents algorithmes utilisés (gestion de la concurrence, reprise sur panne, transaction...) ainsi que les différentes implémentations existantes des opérations de base des SGBD comme les jointures ou les tris accompagnés de leurs conditions d'utilisation.
+      </resume>
+   </unite>
+   <unite id="ENSINBU12">
+      <nom>Intelligence artificielle</nom>
+      <ref-intervenant ref="risch" />
+      <ref-intervenant ref="santocanale" />
+      <nombreCredits>3</nombreCredits>
+      <resume>
+    Introduction à l'IA
+    Problèmes d'espace d'états et d'exploration
+    Logiques pour l'IA et démonstration automatique
+    Représentation de connaissances
+    Actions, temps et planification
+    Programmation par contraintes et réseaux de contraintes
+      </resume>
+   </unite>
+   <unite id="ENSINBU13">
+      <nom>Algorithme à performance garantie</nom>
+      <ref-intervenant ref="couetoux" />
+      <nombreCredits>3</nombreCredits>
+      <resume>        
+    Algorithmes d'approximation de nature combinatoire pour les problèmes NP-complets suivants : Voyageur de Commerce, arbre de Steiner, ordonnancement de taches, clustering, p-centres, sac à dos, bin packing, couverture d'ensemble, la plus courte sur-séquence commune ;
+    FPTAS et PTAS (ordonnancement de taches et sac à dos) ;
+    Algorithmes d'approximation par programmation linéaire : l'arrondi et la méthode primale-duale (MAXSAT, couverture d'ensemble, multicoupes et multiflots dans les arbres) ;
+    Algorithmes en ligne et compétitivité : la pagination et les k-serveurs.        
+      </resume>
+   </unite>
+   <unite id="ENSINBU16">
+      <nom>Introduction à l'apprentissage automatique</nom>
+      <ref-intervenant ref="kadri" />
+      <nombreCredits>3</nombreCredits>
+   </unite>
+   <unite id="ENSINDU4">
+      <nom>Stage en entreprise</nom>
+      <nombreCredits>24</nombreCredits>
+      <resume>        
+    Recherche d'un stage. Validation du sujet de stage. Suivi du bon déroulement du stage. Aide à la rédaction du mémoire de stage. Soutenance et évaluation du stage.
+      </resume>
+   </unite>
+   <unite id="ENSINCU72">
+      <nom>Entrepôt de données et Big Data</nom>
+      <nombreCredits>3</nombreCredits>
+      <resume>            
+		Définition, caractéristique, particularité, architecture.
+		Intégration de données.
+		Exploitation d'un entrepôt en vue d'analyses.
+		Requêtes OLAP.
+		Cubes de données, modèles conceptuels et logiques.
+		Méthode algorithmique de type Rolap cubing.
+		Big Data : concept et usage
+      </resume>
+   </unite>
+   <unite id="ENSINCU40">
+      <nom>Administration et alimentation de BD</nom>
+      <nombreCredits>3</nombreCredits>
+      <resume>        
+		Architecture d’un SGBD.
+		Création, Confidentialité, Optimisation et Sécurité d’une base de données.
+		Migration de bases de données : techniques usuelles, maintenance de l’inter-dépendance entre bases de données.
+		Alimentation, nettoyage et sélection des données en vue d'analyses.
+		Logiciels possible : ORACLE, Pentaho Data Integration.
+      </resume>
+   </unite>
+   <unite id="ENSINCU67">
+      <nom>Projet d'entreprise</nom>
+      <nombreCredits>3</nombreCredits>
+      <resume>        
+		L'objet de cet enseignement est de présenter un projet de création et de développementd'entreprise. Le but est de donner une vision horizontale des différents aspects à examiner pour se lancerdans une création d'entreprise, sans la complétude verticale donnée par exemple par un cours de type« école de commerce » sur l'aspect marché. Une vision de Business Plan pourra ainsi être acquise à la finde cet enseignement.
+      </resume>
+   </unite>
+   <parcours>
+      <nom>Master 1</nom>
+      <branche>
+          <nom>Tronc commun</nom>
+      	  <ref-responsable ref="morin"/>
+		  <description>
+		  	L'objectif de cette première année est de donner les bases indispensables permettant, en deuxième année, de choisir une spécialisation dans un domaine précis. Sur les 60 crédits de cette première année, 15 crédits correspondent à des enseignements optionnels. Ces options permettent de construire un parcours adapté. Un choix entre stage ou projet encadré est également proposé au semestre de printemps.
+	      </description>
+		  <debouche>Architecte logiciel</debouche>
+		  <debouche>Chef de projets</debouche>
+		  <debouche>Ingénieur intégration</debouche>
+		  <lieu>Luminy</lieu>
+		  <lieu>Saint-Jerome</lieu>
+          <semestre numero="1">
+              <bloc role="obligatoire">
+                  <ref-unite ref="ENSINAU1"/>
+                  <ref-unite ref="ENSINAU2"/>
+                  <ref-unite ref="ENSINAU3"/>
+                  <ref-unite ref="ENSINAU4"/>
+                  <ref-unite ref="ENSINAU12"/>
+              </bloc>
+              <bloc role="option">
+                  <ref-unite ref="ENSINAU6"/>
+                  <ref-unite ref="ENSINAU7"/>
+                  <ref-unite ref="ENSINAU8"/>
+                  <ref-unite ref="ENSINAU9"/>
+                  <ref-unite ref="ENSINAU10"/>
+                  <ref-unite ref="ENSINAU13"/>
+              </bloc>
+          </semestre>
+          <semestre numero="2">
+              <bloc role="obligatoire">
+		          <ref-unite ref="ENSINBU1"/>
+		          <ref-unite ref="ENSINBU2"/>
+		          <ref-unite ref="ENSINBU4"/>
+		          <ref-unite ref="ENSINBU5"/>
+		          <ref-unite ref="ENSINBU6"/>
+		          <ref-unite ref="ENSINBU7"/>
+		          <ref-unite ref="ENSINBU15"/>
+			  </bloc>
+		      <bloc role="option">
+		          <ref-unite ref="ENSINBU8"/>
+		          <ref-unite ref="ENSINBU9"/>
+		          <ref-unite ref="ENSINBU10"/>
+		          <ref-unite ref="ENSINBU11"/>
+		          <ref-unite ref="ENSINBU12"/>
+		          <ref-unite ref="ENSINBU13"/>
+		          <ref-unite ref="ENSINBU16"/>
+		      </bloc>
+          </semestre>
+		  <competences>
+		  	Maîtriser les notions fondamentales de l'informatique : principes de fonctionnement des machines, concepts d'organisation des données et algorithmique avancée, notions de réseaux et de systèmes, traduction et langages, information et systèmes distribués, méthodes de conception.
+	      </competences>
+		  <politique-stages>
+		  	La formation par le biais des projets est largement encouragée : un travail d'étude et de recherche réalisé en groupe de deux à trois étudiants termine la première année. C'est l'occasion de mettre en pratique les connaissances acquises durant la formation.
+			Les stages sont optionnels en première année (2 mois). Ils se déroulent en entreprise ou dans un laboratoire suivant la spécialité. La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. La fin du stage donne lieu à une soutenance et à la rédaction d'un mémoire.
+	      </politique-stages>
+		  <aspects-recherche>
+		  	En premier lieu, la formation au niveau M1 est caractérisée par un ensemble de cours fondamentaux qui préparent aux spécialités recherche et professionnelles. Ensuite, grâce aux UE optionnelles, les étudiants peuvent choisir des cours plutôt à vocation recherche. Enfin, l'UE projet ou stage peut être dédiée complètement à la recherche : stage dans un laboratoire, ou projet à vocation recherche.
+	      </aspects-recherche>
+		  <modalites-pedago>
+		  	La première année du master est un tronc commun unique qui n'est pas constitué de parcours. Le premier semestre est composé de 5 unités obligatoires (3 UE à 6 crédits et 2 UE à 3 crédits) et 2 unités optionnelles de 3 crédits. Le deuxième semestre est composé de trois unités obligatoires (pour 15 crédits), de 3 unités optionnelles de 3 crédits et d'un stage ou d'un travail encadré (6 crédits).
+	      </modalites-pedago>
+		  <condition-adm>
+		  	<p><b>Pré-requis obligatoires :</b> <ul><li>une licence à dominante informatique.</li></ul></p>
+	      </condition-adm>
+      </branche>
+   </parcours>
+   <parcours>
+      <nom>Informatique décisionnelle</nom>
+      <ref-responsable ref="novelli"/>
+	  <description>
+	  	Cette spécialité à finalité professionnelle est une composante du Master Informatique. Elle est déclinée en deux parcours qui partagent un tronc-commun au début de la deuxième année (semestre 3).
+      </description>
+      <branche finalite="professionnelle">
+          <nom>Fouille et entrepôts de données</nom>
+      	  <ref-responsable ref="novelli"/>
+		  <description>
+		  	Ce parcours permet aux étudiants d’approfondir les connaissances qu'ils doivent maîtriser pour appréhender le cycle de vie complet des bases et entrepôts de données : de leur conception à leur administration, en passant par les architectures logicielles des systèmes de bases de données, et les divers formats d'échanges à travers le web. Une attention particulière est portée à l'étude des techniques de fouille et d'extraction de connaissances à partir de données. La Fouille de Données ou l'Extraction de Connaissances à partir de Bases de données désigne un domaine de compétences dont l'objectif est de rechercher et découvrir des informations, nouvelles et utiles, dans des données le plus souvent volumineuses et hétérogènes. La fouille de données rassemble des professionnels de plusieurs disciplines : des spécialistes en bases et entrepôts de données, en analyse des données, ayant aussi des connaissances de bases en recherche opérationnelle.
+	      </description>
+		  <debouche>Administrateur de bases de données ou d’entrepôts de données</debouche>
+		  <debouche>Extraction, transformation et chargement des données</debouche>
+		  <debouche>Gestion, exploitation et optimisation de bases et entrepôts de données</debouche>
+		  <debouche>Études et développement informatique</debouche>
+		  <debouche>Conseil et maîtrise d’ouvrage en système d’information</debouche>
+		  <debouche>Expertise et support technique en système d’information</debouche>
+		  <debouche>Administration de systèmes d'information</debouche>
+		  <lieu>Luminy</lieu>
+          <semestre numero="1">
+              <bloc role="obligatoire">
+                  <ref-unite ref="ENSINCU40"/>
+                  <ref-unite ref="ENSINCU72"/>
+              </bloc>
+              <bloc role="bonus">
+                  <ref-unite ref="ENSINCU67"/>
+              </bloc>
+          </semestre>
+          <semestre numero="2">
+              <bloc role="obligatoire">
+		          <ref-unite ref="ENSINDU4"/>
+			  </bloc>
+          </semestre>
+		  <competences>		  	
+			Anglais, Communication et JEE.
+			Créer, maintenir et optimiser des bases de données et/ou des entrepôts de données.
+			Mettre en place des solutions de fouilles de données pour diverses domaines comme le marketing, les études de produits et de clientèle, l’aide à la décision, la veille technologique...
+			Optimisation combinatoire, programmation mathématique, langages de modélisation, algorithmique des graphes et réseaux.
+	      </competences>
+		  <connaissances>		  	
+			Outre les connaissances généralistes comme l’anglais, la communication et JEE (Java Enterprise Edition), les étudiants acquerront les notions fondamentales de l’Informatique Décisionnelle qui regroupe l’administration de bases de données et la modélisation des problèmes (concevoir et constituer un réservoir exploitable de données et définir la stratégie d’exploitation en vue d’une analyse de données), l’optimisation linéaire (modéliser et résoudre un problème d’optimisation), la fouille de bases de données (extraire des informations intéressantes non préalablement connues).
+	      </connaissances>
+		  <politique-stages>
+		  	Les stages sont optionnels en première année (2 mois), obligatoires en deuxième année (4 à 6 mois). La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. Les sujets doivent vérifier un cahier des charges qui est donné aux étudiants en début d'année. Le stage peut alors débuter. Durant la période de stage, un rapport d'avancement est demandé régulièrement au stagiaire (tous les mois). Les éventuels problèmes sont ainsi décelés au plus tôt. A l'issue du stage, le stagiaire doit fournir un rapport de stage et faire une soutenance orale. Il est noté sur la base de son rapport, de sa présentation et de l'évaluation du stage faite par son tuteur en entreprise.
+	      </politique-stages>
+		  <ens-delocalise>
+		  	Ce master bénéficie de plusieurs contrats Erasmus. Trois contrats de longue date avec les universités de Tübingen et Hannovre (Allemagne) et avec l'université anglophone d'Uppsala (Suède) ont déjà permis des échanges d'étudiants en M1 et M2. Un contrat plus récent avec les université techniques de Munich (Allemagne) et Vienne (Autriche) sont actifs et permettent également des échanges au niveau Master 1 et 2 (le plus souvent sur un semestre), puis au niveau doctoral.
+			Établissements avec lesquels nous avons un accord Erasmus :
+				Allemagne, Hannovre, Gottfried Wilhelm Leibniz Universität
+				Allemagne, Munich, Technische Universität München
+				Allemagne, Tübingen, Eberhard Karls Universität
+				Vienne, Autriche, Technische Universität Wien
+				Suède, Uppsala, Uppsala Universitet
+			Autres établissements avec lesquels nous avons un accord :
+				Belgique, Namur, Facultés Universitaires Notre Dame de la Paix
+				Bulgarie, Sofia, Tehnicheski Universitet
+				Espagne, Séville, Universidad de Sevilla
+				Italie, Sienne, Univ. di Siena
+				Roumanie, Brasov, Universitatea Transilvania din Brasov
+			Établissements canadiens avec lesquels nous avons un accord :
+				Université de Montréal
+				Université d'Ottawa
+				Université de Victoria
+				Université Western Ontario
+	      </ens-delocalise>
+		  <condition-adm>
+		  	Après l'étude des dossiers des candidats, le jury d'admission constitué à partir des membres de l'équipe pédagogique statue sur l'admission de chacun d'eux
+	      </condition-adm>
+		  <poursuite-etud>
+		  	Il est possible de poursuivre en thèse de doctorat notamment grâce à des bourses CIFRE en partenariat avec des entreprises
+	      </poursuite-etud>
+      </branche>
+
+	  <branche finalite="professionnelle">
+          <nom>Recherche opérationnelle</nom>
+      	  <ref-responsable ref="vaxes"/>
+		  <description>
+		  	La recherche opérationnelle consiste à utiliser des méthodes et des modèles pour résoudre des problèmes complexes d'organisation, de planification, de gestion de ressources, ou d'optimisation issus de nombreux secteurs d'activités comme le transport, l'industrie, les télécommunications, la finance... La résolution de ces problèmes constitue un enjeu économique et industriel important. La conception d'applications décisionnelles requiert une phase de spécification et d'extraction de données lors de laquelle les compétences acquises par les étudiants de la spécialité ID dans le domaine de la fouille et des entrepôts de données sera particulièrement utile. Elle nécessite également des connaissances fondamentales dans le domaine de la modélisation et de l'optimisation et une très bonne maîtrise des outils nécessaires pour concevoir et développer des applications décisionnelles (langages de modélisation, solveurs, structures de données, algorithmes…).
+	      </description>
+		  <debouche>Administrateur de bases de données ou d’entrepôts de données</debouche>
+		  <debouche>Extraction, transformation et chargement des données</debouche>
+		  <debouche>Gestion, exploitation et optimisation de bases et entrepôts de données</debouche>
+		  <debouche>Études et développement informatique</debouche>
+		  <debouche>Conseil et maîtrise d’ouvrage en système d’information</debouche>
+		  <debouche>Expertise et support technique en système d’information</debouche>
+		  <debouche>Administration de systèmes d'information</debouche>
+		  <lieu>Luminy</lieu>
+          <semestre numero="1">
+              <bloc role="obligatoire">
+                  <ref-unite ref="ENSINCU40"/>
+                  <ref-unite ref="ENSINCU72"/>
+              </bloc>
+              <bloc role="bonus">
+                  <ref-unite ref="ENSINCU67"/>
+              </bloc>
+          </semestre>
+          <semestre numero="2">
+              <bloc role="obligatoire">
+		          <ref-unite ref="ENSINDU4"/>
+			  </bloc>
+          </semestre>
+		  <competences>
+			Anglais, Communication et JEE.
+			Créer, maintenir et optimiser des bases de données et/ou des entrepôts de données.
+			Mettre en place des solutions de fouilles de données pour diverses domaines comme le marketing, les études de produits et de clientèle, l’aide à la décision, la veille technologique...
+			Optimisation combinatoire, programmation mathématique, langages de modélisation, algorithmique des graphes et réseaux.
+	      </competences>
+		  <connaissances>		  	
+			Outre les connaissances généralistes comme l’anglais, la communication et JEE (Java Enterprise Edition), les étudiants acquerront les notions fondamentales de l’Informatique Décisionnelle qui regroupe l’administration de bases de données et la modélisation des problèmes (concevoir et constituer un réservoir exploitable de données et définir la stratégie d’exploitation en vue d’une analyse de données), l’optimisation linéaire (modéliser et résoudre un problème d’optimisation), la fouille de bases de données (extraire des informations intéressantes non préalablement connues).
+	      </connaissances>
+		  <politique-stages>
+		  	Les stages sont optionnels en première année (2 mois), obligatoires en deuxième année (4 à 6 mois). La recherche de stage est assurée par l'étudiant avec l'aide de l'équipe pédagogique (liste d'entreprises, diffusion des offres reçues, etc.). Le sujet de stage est validé par un enseignant responsable avant la signature de la convention. Les sujets doivent vérifier un cahier des charges qui est donné aux étudiants en début d'année. Le stage peut alors débuter. Durant la période de stage, un rapport d'avancement est demandé régulièrement au stagiaire (tous les mois). Les éventuels problèmes sont ainsi décelés au plus tôt. A l'issue du stage, le stagiaire doit fournir un rapport de stage et faire une soutenance orale. Il est noté sur la base de son rapport, de sa présentation et de l'évaluation du stage faite par son tuteur en entreprise.
+	      </politique-stages>
+		  <ens-delocalise>
+		  	Ce master bénéficie de plusieurs contrats Erasmus. Trois contrats de longue date avec les universités de Tübingen et Hannovre (Allemagne) et avec l'université anglophone d'Uppsala (Suède) ont déjà permis des échanges d'étudiants en M1 et M2. Un contrat plus récent avec les université techniques de Munich (Allemagne) et Vienne (Autriche) sont actifs et permettent également des échanges au niveau Master 1 et 2 (le plus souvent sur un semestre), puis au niveau doctoral.
+			Établissements avec lesquels nous avons un accord Erasmus :
+				Allemagne, Hannovre, Gottfried Wilhelm Leibniz Universität
+				Allemagne, Munich, Technische Universität München
+				Allemagne, Tübingen, Eberhard Karls Universität
+				Vienne, Autriche, Technische Universität Wien
+				Suède, Uppsala, Uppsala Universitet
+			Autres établissements avec lesquels nous avons un accord :
+				Belgique, Namur, Facultés Universitaires Notre Dame de la Paix
+				Bulgarie, Sofia, Tehnicheski Universitet
+				Espagne, Séville, Universidad de Sevilla
+				Italie, Sienne, Univ. di Siena
+				Roumanie, Brasov, Universitatea Transilvania din Brasov
+			Établissements canadiens avec lesquels nous avons un accord :
+				Université de Montréal
+				Université d'Ottawa
+				Université de Victoria
+				Université Western Ontario
+	      </ens-delocalise>
+		  <aspects-recherche>
+		  	En premier lieu, la formation au niveau M1 est caractérisée par un ensemble de cours fondamentaux qui préparent aux spécialités recherche et professionnelles. Ensuite, grâce aux UE optionnelles, les étudiants peuvent choisir des cours plutôt à vocation recherche. Enfin, l'UE projet ou stage peut être dédiée complètement à la recherche : stage dans un laboratoire, ou projet à vocation recherche.
+	      </aspects-recherche>
+		  <condition-adm>
+		  	Après l'étude des dossiers des candidats, le jury d'admission constitué à partir des membres de l'équipe pédagogique statue sur l'admission de chacun d'eux
+	      </condition-adm>
+		  <poursuite-etud>
+		  	Il est possible de poursuivre en thèse de doctorat notamment grâce à des bourses CIFRE en partenariat avec des entreprises
+	      </poursuite-etud>
+      </branche>
+   </parcours>
+</master>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
