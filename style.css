@@ -2,6 +2,7 @@ p.info {
     text-indent: 50px;
 }
 p.nom {
+    font-size: 110%;
     text-indent: 25px;
     font-weight: bold;
 }

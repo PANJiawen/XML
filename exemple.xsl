@@ -9,7 +9,9 @@
 		<body bgcolor="#e8f4fa" style="color:#444444;">
 			<h1>Informations sur Master</h1>
 			<h2>Intervenants</h2>
-			<xsl:apply-templates/>
+			<xsl:apply-templates select="intervenant"/>
+			<h2>Unités</h2>
+			<xsl:apply-templates select="unite"/>
 		</body>
 	</html>
 </xsl:template>
@@ -32,6 +34,23 @@
 	<p class="info">
 		<b>Elablissment : </b>
 		<xsl:value-of select="etablissement"/>
+	</p>
+</xsl:template>
+<xsl:template match="unite">
+	<p class="nom">
+		<xsl:value-of select="nom"/>
+	</p>
+	<p class="info">
+		<b>Nombre de crédits : </b>
+		<xsl:value-of select="nombreCredits"/>
+	</p>
+	<p class="info">
+		<b>Résumé : </b>
+		<xsl:value-of select="resume"/>
+	</p>
+	<p class="info">
+		<b>Lieu : </b>
+		<xsl:value-of select="lieu"/>
 	</p>
 </xsl:template>
 </xsl:stylesheet>
