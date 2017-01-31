@@ -16,7 +16,7 @@
 			<h2>Intervenants</h2>
     			<xsl:call-template name="intervenants" />
 			<h2>Unités</h2>
-				<xsl:apply-templates select="unite"/>
+			<xsl:apply-templates select="unite"/>
 		</body>
 	</html>
 </xsl:template>
