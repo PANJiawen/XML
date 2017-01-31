@@ -4,6 +4,7 @@
 	method="html"
 	encoding="iso-8859-1"
 />
+
 <xsl:template match="master">
 	<html>
 		<head>
@@ -13,13 +14,15 @@
 		<body bgcolor="#e8f4fa" style="color:#444444;">
 			<h1>Informations sur Master</h1>
 			<h2>Intervenants</h2>
-			<xsl:apply-templates select="intervenant"/>
+    			<xsl:call-template name="intervenants" />
 			<h2>Unités</h2>
-			<xsl:apply-templates select="unite"/>
+				<xsl:apply-templates select="unite"/>
 		</body>
 	</html>
 </xsl:template>
-<xsl:template match="intervenant">
+
+<xsl:template name="intervenants">
+	<xsl:for-each select="//intervenant">
 	<p class="nom">
 		<xsl:value-of select="nom"/>
 	</p>
@@ -39,6 +42,7 @@
 		<b>Elablissment : </b>
 		<xsl:value-of select="etablissement"/>
 	</p>
+	</xsl:for-each>
 </xsl:template>
 <xsl:template match="unite">
 	<p class="nom">
