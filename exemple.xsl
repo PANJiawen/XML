@@ -14,25 +14,73 @@
 		<body bgcolor="#e8f4fa" style="color:#444444;">
 			<h1>Informations sur Master</h1>
 			<h2>Intervenants</h2>
-    			<xsl:call-template name="intervenants" />
+    			<xsl:call-template name="nomIntervenants"/>
+    			
 			<h2>Unités</h2>
-			<xsl:apply-templates select="unite"/>
+				<xsl:call-template name="nomUnites"/>
 		</body>
 	</html>
+	
+    <xsl:for-each select="//intervenant">
+		<xsl:document href="intervenants/{@id}.html" format="html" >
+   			<html>
+				<head>
+					<title><xsl:value-of select="@id"/></title>
+					<link rel="stylesheet" type="text/css" href="style.css"/>
+				</head>
+				<body bgcolor="#e8f4fa" style="color:#444444;">
+					
+					<xsl:call-template name="intervenants"/>
+				</body>
+			</html>	
+		</xsl:document> 
+	</xsl:for-each>
+			
+	<xsl:for-each select="//unite">
+		<xsl:document href="unites/{@id}.html" format="html" >
+   			<html>
+				<head>
+					<title><xsl:value-of select="@id"/></title>
+					<link rel="stylesheet" type="text/css" href="style.css"/>
+				</head>
+				<body bgcolor="#e8f4fa" style="color:#444444;">
+					
+					<xsl:call-template name="unite"/>
+				</body>
+			</html>	
+		</xsl:document> 
+	</xsl:for-each>
+						
+</xsl:template>
+
+<xsl:template name="nomIntervenants">
+	<ul>
+		<xsl:for-each select="//intervenant">
+			<li><a href="intervenants/{@id}.html"><xsl:value-of select="nom"/></a></li><br/>
+		</xsl:for-each>
+	</ul>	
+</xsl:template>
+
+<xsl:template name="nomUnites">
+	<ul>
+		<xsl:for-each select="//unite">
+			<li><a href="unites/{@id}.html"><xsl:value-of select="nom"/></a></li><br/>
+		</xsl:for-each>
+	</ul>	
 </xsl:template>
 
 <xsl:template name="intervenants">
-	<xsl:for-each select="//intervenant">
+	
 	<p class="nom">
-		<xsl:value-of select="nom"/>
+		<h2><xsl:value-of select="nom"/></h2>
 	</p>
 	<p class="info">
 		<b>Adresse : </b>
-		<xsl:value-of select="adresse"/>
+		<a href="{adresse}"><xsl:value-of select="adresse"/></a>
 	</p>
 	<p class="info">
 		<b>Site : </b>
-		<xsl:value-of select="site"/>
+		<a href="{site}"> <xsl:value-of select="site"/> </a>
 	</p>
 	<p class="info">
 		<b>Téléphone : </b>
@@ -42,11 +90,12 @@
 		<b>Elablissment : </b>
 		<xsl:value-of select="etablissement"/>
 	</p>
-	</xsl:for-each>
+	
 </xsl:template>
-<xsl:template match="unite">
+
+<xsl:template name="unite">
 	<p class="nom">
-		<xsl:value-of select="nom"/>
+		<h2><xsl:value-of select="nom"/></h2>
 	</p>
 	<p class="info">
 		<b>Nombre de crédits : </b>
@@ -54,11 +103,12 @@
 	</p>
 	<p class="info">
 		<b>Résumé : </b>
-		<xsl:value-of select="resume"/>
+		<xsl:value-of select="string(resume)"/>
 	</p>
 	<p class="info">
 		<b>Lieu : </b>
 		<xsl:value-of select="lieu"/>
 	</p>
 </xsl:template>
+
 </xsl:stylesheet>
