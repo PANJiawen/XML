@@ -1,6 +1,10 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <!DOCTYPE master SYSTEM "master.dtd">
-<master>
+<master>   
+
+
+
+        
    <intervenant id="morin">
       <nom>Remi MORIN</nom>
       <adresse>remi.morin@univ-amu.fr</adresse>
